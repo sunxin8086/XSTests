@@ -1,0 +1,417 @@
+Totest-shim-osx
+v6
+r1
+cCheck dependencies
+cSymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib
+cProcessPCH /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-afatkzboolawdrdtmqcldvsvsngq/otest-shim-Prefix.pch.pch otest-shim/otest-shim-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-bfmmxmzhnktbbebtbqkyiwohvkpe/otest-shim-Prefix.pch.pch otest-shim/otest-shim-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim.o /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim.o /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim-osx.dylib normal x86_64
+cLd /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim-osx.dylib normal i386
+cCreateUniversalBinary /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib normal x86_64\ i386
+cGenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000051D54DB600000000000000AA
+t1372933558
+s170
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000051D84F28000000000000044C
+t1373130536
+s1100
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000051D84F2800000000000001DC
+t1373130536
+s476
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000051D84F33000000000000253C
+t1373130547
+s9532
+
+N/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m
+c0000000051E8CD5A000000000000059B
+t1374211418
+s1435
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-afatkzboolawdrdtmqcldvsvsngq/otest-shim-Prefix.pch.pch
+t1374211436
+s114496
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-bfmmxmzhnktbbebtbqkyiwohvkpe/otest-shim-Prefix.pch.pch
+t1374211436
+s113336
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/Swizzle.o
+t1374211439
+s6272
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim-osx.LinkFileList
+c0000000051E8CD6C0000000000000119
+t1374211436
+s281
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim-osx.dylib
+t1374211441
+s30528
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim.o
+t1374211439
+s51272
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/Swizzle.o
+t1374211439
+s7736
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim-osx.LinkFileList
+c0000000051E8CD6C000000000000011D
+t1374211436
+s285
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim-osx.dylib
+t1374211441
+s42600
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim.o
+t1374211439
+s62620
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib
+t1374211441
+s79680
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib
+t2
+s0
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib.dSYM
+t2
+s0
+
+N/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim-Prefix.pch
+c0000000051E8CD5A000000000000007B
+t1374211418
+s123
+
+N/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m
+c0000000051E8CD5A00000000000039E6
+t1374211418
+s14822
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0a3094ec0499b741^384b95ec0499b741^---0#1#1#--18"Check dependencies36"254ECF25-D91D-4A07-BF08-1FC456D2C6C0-
+
+CCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395904236.601856
+e395904239.905472
+r1
+xCompileC
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/Swizzle.o
+x/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m
+d/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m267"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0e319aec0499b741^21cee7ef0499b741^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m0000000000000000^3407"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-generated-files.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-own-target-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-all-target-headers.hmap -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-project-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/DerivedSources/i386 -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/DerivedSources -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode5-DP3.app/Contents/Developer/Library/Frameworks -include /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-bfmmxmzhnktbbebtbqkyiwohvkpe/otest-shim-Prefix.pch -MMD -MT dependencies -MF /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/Swizzle.d --serialize-diagnostics /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/Swizzle.dia -c /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/Swizzle.o36"5D6EAF7F-B07E-4BD3-B863-C6C07759D661-
+b75FB0A0F-A687-4843-8613-7C9BF93D5768
+
+CCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim.o /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395904236.601533
+e395904239.981255
+r1
+xCompileC
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim.o
+x/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h
+d/Users/xinsun/Documents/iOS/xctool/xctool/xctool/Reporter.h
+d/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.h
+d/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/dyld-interposing.h
+d/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/dyld_priv.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m242"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim.o otest-shim/otest-shim.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerba159aec0499b741^8733fbef0499b741^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m0000000000000000^3409"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim.o otest-shim/otest-shim.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-generated-files.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-own-target-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-all-target-headers.hmap -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-project-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/DerivedSources/i386 -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/DerivedSources -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode5-DP3.app/Contents/Developer/Library/Frameworks -include /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-bfmmxmzhnktbbebtbqkyiwohvkpe/otest-shim-Prefix.pch -MMD -MT dependencies -MF /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim.d --serialize-diagnostics /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim.dia -c /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim.o36"17CEA28A-59AF-4FF4-B4C8-2D7035E91375-
+b75FB0A0F-A687-4843-8613-7C9BF93D5768
+
+CCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395904236.601242
+e395904239.901939
+r1
+xCompileC
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/Swizzle.o
+x/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m
+d/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m271"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler72fb99ec0499b741^79e5e6ef0499b741^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m0000000000000000^3431"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-gc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-generated-files.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-own-target-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-all-target-headers.hmap -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-project-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/DerivedSources/x86_64 -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/DerivedSources -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode5-DP3.app/Contents/Developer/Library/Frameworks -include /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-afatkzboolawdrdtmqcldvsvsngq/otest-shim-Prefix.pch -MMD -MT dependencies -MF /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/Swizzle.d --serialize-diagnostics /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/Swizzle.dia -c /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/Swizzle.o36"F46F3797-78DE-4F7B-A002-7979FD93D190-
+b75FB0A0F-A687-4843-8613-7C9BF93D5768
+
+CCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim.o /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395904236.601032
+e395904239.980303
+r1
+xCompileC
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim.o
+x/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h
+d/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h
+d/Users/xinsun/Documents/iOS/xctool/xctool/xctool/Reporter.h
+d/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.h
+d/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/dyld-interposing.h
+d/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/dyld_priv.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m246"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim.o otest-shim/otest-shim.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc6f799ec0499b741^77f5faef0499b741^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m0000000000000000^3433"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim.o otest-shim/otest-shim.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-gc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-generated-files.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-own-target-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-all-target-headers.hmap -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-project-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/DerivedSources/x86_64 -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/DerivedSources -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode5-DP3.app/Contents/Developer/Library/Frameworks -include /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-afatkzboolawdrdtmqcldvsvsngq/otest-shim-Prefix.pch -MMD -MT dependencies -MF /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim.d --serialize-diagnostics /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim.dia -c /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim.o36"FA8272CA-CF77-4748-B569-0D6FFDDD178E-
+b75FB0A0F-A687-4843-8613-7C9BF93D5768
+
+CCreateUniversalBinary /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib normal x86_64\ i386
+s395904241.211869
+e395904241.282343
+r1
+xCreateUniversalBinary
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib
+xnormal
+xx86_64 i386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Create universal binary /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib132"CreateUniversalBinary /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib normal x86_64\ i386435336f10499b741^d44748f10499b741^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib0034bc9edfffdf42^604"CreateUniversalBinary /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib normal x86_64\ i386    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    lipo -create /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim-osx.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim-osx.dylib -output /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib36"F93786A1-3891-4ACE-8822-86803E2384A1-
+b75FB0A0F-A687-4843-8613-7C9BF93D5768
+
+CGenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib
+s395904241.282910
+e395904241.294718
+r1
+xGenerateDSYMFile
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib.dSYM
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Generate /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib.dSYM199"GenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib957c48f10499b741^4b734bf10499b741^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib.dSYM0034bc9edfffdf42^544"GenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib.dSYM36"AD67AFF9-E49D-4986-A9DD-34790CC12CC7-
+b75FB0A0F-A687-4843-8613-7C9BF93D5768
+
+CLd /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim-osx.dylib normal i386
+s395904240.003812
+e395904241.210833
+r1
+xLd
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim-osx.dylib
+xnormal
+xi386
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim-osx.LinkFileList
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim.o
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/Swizzle.o
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.eprintf.a
+d/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Link /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim-osx.dylib164"Ld /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim-osx.dylib normal i386140601f00499b741^e3fc35f10499b741^---0#0#1#--1444"Ld /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim-osx.dylib normal i386    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -dynamiclib -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim-osx.LinkFileList -install_name /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib -mmacosx-version-min=10.7 -fobjc-link-runtime -framework Cocoa -single_module -compatibility_version 1 -current_version 1 -Xlinker -dependency_info -Xlinker /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim-osx_dependency_info.dat -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/i386/otest-shim-osx.dylib36"AC650D32-DD29-45B9-9905-C7A457C847FC-
+b75FB0A0F-A687-4843-8613-7C9BF93D5768
+
+CLd /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim-osx.dylib normal x86_64
+s395904240.003607
+e395904241.210905
+r1
+xLd
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim-osx.dylib
+xnormal
+xx86_64
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim-osx.LinkFileList
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim.o
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/Swizzle.o
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection156"Link /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim-osx.dylib168"Ld /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim-osx.dylib normal x86_6455fb00f00499b741^630a36f10499b741^---0#0#1#--1456"Ld /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim-osx.dylib normal x86_64    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -dynamiclib -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim-osx.LinkFileList -install_name /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib -mmacosx-version-min=10.7 -fobjc-link-runtime -framework Cocoa -single_module -compatibility_version 1 -current_version 1 -Xlinker -dependency_info -Xlinker /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim-osx_dependency_info.dat -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/Objects-normal/x86_64/otest-shim-osx.dylib36"7647D1C1-B19C-44FF-B406-E7F00F495F7E-
+b75FB0A0F-A687-4843-8613-7C9BF93D5768
+
+CProcessPCH /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-afatkzboolawdrdtmqcldvsvsngq/otest-shim-Prefix.pch.pch otest-shim/otest-shim-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395904236.587603
+e395904236.600342
+r1
+xProcessPCH
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-afatkzboolawdrdtmqcldvsvsngq/otest-shim-Prefix.pch.pch
+xotest-shim/otest-shim-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile otest-shim/otest-shim-Prefix.pch268"ProcessPCH /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-afatkzboolawdrdtmqcldvsvsngq/otest-shim-Prefix.pch.pch otest-shim/otest-shim-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler418296ec0499b741^d1af99ec0499b741^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim-Prefix.pch0000000000000000^3340"ProcessPCH /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-afatkzboolawdrdtmqcldvsvsngq/otest-shim-Prefix.pch.pch otest-shim/otest-shim-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-gc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-generated-files.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-own-target-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-all-target-headers.hmap -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-project-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/DerivedSources/x86_64 -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/DerivedSources -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode5-DP3.app/Contents/Developer/Library/Frameworks --serialize-diagnostics /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-afatkzboolawdrdtmqcldvsvsngq/otest-shim-Prefix.pch.dia -MMD -MT dependencies -MF /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-afatkzboolawdrdtmqcldvsvsngq/otest-shim-Prefix.pch.d -c /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim-Prefix.pch -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-afatkzboolawdrdtmqcldvsvsngq/otest-shim-Prefix.pch.pch36"3F21E492-201F-4CD9-A44D-14A7A14495BA-
+b75FB0A0F-A687-4843-8613-7C9BF93D5768
+
+CProcessPCH /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-bfmmxmzhnktbbebtbqkyiwohvkpe/otest-shim-Prefix.pch.pch otest-shim/otest-shim-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395904236.587858
+e395904236.600327
+r1
+xProcessPCH
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-bfmmxmzhnktbbebtbqkyiwohvkpe/otest-shim-Prefix.pch.pch
+xotest-shim/otest-shim-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile otest-shim/otest-shim-Prefix.pch266"ProcessPCH /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-bfmmxmzhnktbbebtbqkyiwohvkpe/otest-shim-Prefix.pch.pch otest-shim/otest-shim-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler039496ec0499b741^0fb999ec0499b741^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim-Prefix.pch0000000000000000^3324"ProcessPCH /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-bfmmxmzhnktbbebtbqkyiwohvkpe/otest-shim-Prefix.pch.pch otest-shim/otest-shim-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-generated-files.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-own-target-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-all-target-headers.hmap -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/otest-shim-osx-project-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/DerivedSources/i386 -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-osx.build/DerivedSources -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode5-DP3.app/Contents/Developer/Library/Frameworks --serialize-diagnostics /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-bfmmxmzhnktbbebtbqkyiwohvkpe/otest-shim-Prefix.pch.dia -MMD -MT dependencies -MF /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-bfmmxmzhnktbbebtbqkyiwohvkpe/otest-shim-Prefix.pch.d -c /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim-Prefix.pch -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-shim-Prefix-bfmmxmzhnktbbebtbqkyiwohvkpe/otest-shim-Prefix.pch.pch36"9D5F2B96-4BE7-4C32-A48D-6E1B126BB8E9-
+b75FB0A0F-A687-4843-8613-7C9BF93D5768
+
+CSymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib
+s395904236.583488
+e395904236.586689
+r1
+xSymLink
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Process /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib185"SymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dyliba56895ec0499b741^c63196ec0499b741^---0#0#1#--433"SymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    /bin/ln -sf /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-osx.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-osx.dylib36"33B797B3-0698-431A-9ECF-C7FFAA6014BD-
+b75FB0A0F-A687-4843-8613-7C9BF93D5768
+

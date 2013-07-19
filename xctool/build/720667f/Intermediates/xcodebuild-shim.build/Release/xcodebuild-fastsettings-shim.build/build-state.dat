@@ -1,0 +1,201 @@
+Txcodebuild-fastsettings-shim
+v6
+r1
+cCheck dependencies
+cSymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib
+cCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/xcodebuild_fastsettings_shim.o /Users/xinsun/Documents/iOS/xctool/xcodebuild-shim/xcodebuild-fastsettings-shim/xcodebuild_fastsettings_shim.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib normal x86_64
+cGenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000051D54DB600000000000000AA
+t1372933558
+s170
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000051D84F28000000000000044C
+t1373130536
+s1100
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000051D84F2800000000000001DC
+t1373130536
+s476
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000051D84F33000000000000253C
+t1373130547
+s9532
+
+N/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m
+c0000000051E8CD5A000000000000059B
+t1374211418
+s1435
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/Swizzle.o
+t1374211442
+s7736
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/xcodebuild-fastsettings-shim.LinkFileList
+c0000000051E8CD720000000000000155
+t1374211442
+s341
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/xcodebuild_fastsettings_shim.o
+t1374211442
+s11728
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib
+t1374211442
+s26316
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib
+t2
+s0
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib.dSYM
+t2
+s0
+
+N/Users/xinsun/Documents/iOS/xctool/xcodebuild-shim/xcodebuild-fastsettings-shim/xcodebuild-fastsettings-shim-Prefix.pch
+c0000000051E8CD5A00000000000000B7
+t1374211418
+s183
+
+N/Users/xinsun/Documents/iOS/xctool/xcodebuild-shim/xcodebuild-fastsettings-shim/xcodebuild_fastsettings_shim.m
+c0000000051E8CD5A0000000000000EEC
+t1374211418
+s3820
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa39226f20499b741^ec8427f20499b741^---0#1#1#--18"Check dependencies36"D7120DA4-CAA0-4A08-960F-A9EEFCCA93E3-
+
+CCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395904242.160578
+e395904242.606563
+r1
+xCompileC
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/Swizzle.o
+x/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m
+d/Users/xinsun/Documents/iOS/xctool/xcodebuild-shim/xcodebuild-fastsettings-shim/xcodebuild-fastsettings-shim-Prefix.pch
+d/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m290"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2b3329f20499b741^5e489bf20499b741^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m0000000000000000^3518"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xinsun/Documents/iOS/xctool/xcodebuild-shim    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-gc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/xcodebuild-fastsettings-shim-generated-files.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/xcodebuild-fastsettings-shim-own-target-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/xcodebuild-fastsettings-shim-all-target-headers.hmap -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/xcodebuild-fastsettings-shim-project-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/DerivedSources/x86_64 -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/DerivedSources -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -include /Users/xinsun/Documents/iOS/xctool/xcodebuild-shim/xcodebuild-fastsettings-shim/xcodebuild-fastsettings-shim-Prefix.pch -MMD -MT dependencies -MF /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/Swizzle.d --serialize-diagnostics /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/Swizzle.dia -c /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/Swizzle.o36"74AA18E1-F67F-435E-BCD0-0BA524DD0CF8-
+b69ED0706-C347-458E-B926-D5C4931E8D6B
+
+CCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/xcodebuild_fastsettings_shim.o /Users/xinsun/Documents/iOS/xctool/xcodebuild-shim/xcodebuild-fastsettings-shim/xcodebuild_fastsettings_shim.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395904242.160226
+e395904242.612937
+r1
+xCompileC
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/xcodebuild_fastsettings_shim.o
+x/Users/xinsun/Documents/iOS/xctool/xcodebuild-shim/xcodebuild-fastsettings-shim/xcodebuild_fastsettings_shim.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xinsun/Documents/iOS/xctool/xcodebuild-shim/xcodebuild-fastsettings-shim/xcodebuild_fastsettings_shim.m
+d/Users/xinsun/Documents/iOS/xctool/xcodebuild-shim/xcodebuild-fastsettings-shim/xcodebuild-fastsettings-shim-Prefix.pch
+d/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/xinsun/Documents/iOS/xctool/xcodebuild-shim/xcodebuild-fastsettings-shim/xcodebuild_fastsettings_shim.m319"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/xcodebuild_fastsettings_shim.o xcodebuild-fastsettings-shim/xcodebuild_fastsettings_shim.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler014c29f20499b741^b4e99cf20499b741^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/xinsun/Documents/iOS/xctool/xcodebuild-shim/xcodebuild-fastsettings-shim/xcodebuild_fastsettings_shim.m0000000000000000^3669"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/xcodebuild_fastsettings_shim.o xcodebuild-fastsettings-shim/xcodebuild_fastsettings_shim.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xinsun/Documents/iOS/xctool/xcodebuild-shim    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-gc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/xcodebuild-fastsettings-shim-generated-files.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/xcodebuild-fastsettings-shim-own-target-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/xcodebuild-fastsettings-shim-all-target-headers.hmap -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/xcodebuild-fastsettings-shim-project-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/DerivedSources/x86_64 -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/DerivedSources -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -include /Users/xinsun/Documents/iOS/xctool/xcodebuild-shim/xcodebuild-fastsettings-shim/xcodebuild-fastsettings-shim-Prefix.pch -MMD -MT dependencies -MF /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/xcodebuild_fastsettings_shim.d --serialize-diagnostics /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/xcodebuild_fastsettings_shim.dia -c /Users/xinsun/Documents/iOS/xctool/xcodebuild-shim/xcodebuild-fastsettings-shim/xcodebuild_fastsettings_shim.m -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/xcodebuild_fastsettings_shim.o36"F07514C9-3EF3-445A-A540-131D243C3148-
+b69ED0706-C347-458E-B926-D5C4931E8D6B
+
+CGenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib
+s395904242.648474
+e395904242.676814
+r1
+xGenerateDSYMFile
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib.dSYM
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Generate /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib.dSYM227"GenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib950ea6f20499b741^6744adf20499b741^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib.dSYM0034bc9edfffdf42^605"GenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib    cd /Users/xinsun/Documents/iOS/xctool/xcodebuild-shim    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib.dSYM36"AA549673-D019-46DC-8950-CFA719636914-
+b69ED0706-C347-458E-B926-D5C4931E8D6B
+
+CLd /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib normal x86_64
+s395904242.613488
+e395904242.647812
+r1
+xLd
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib
+xnormal
+xx86_64
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/xcodebuild-fastsettings-shim.LinkFileList
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/xcodebuild_fastsettings_shim.o
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/Swizzle.o
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Link /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib121"Ld /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib normal x86_64871a9df20499b741^67d7a5f20499b741^---0#0#1#--1383"Ld /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib normal x86_64    cd /Users/xinsun/Documents/iOS/xctool/xcodebuild-shim    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -dynamiclib -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -filelist /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/xcodebuild-fastsettings-shim.LinkFileList -install_name /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib -mmacosx-version-min=10.7 -fobjc-link-runtime -framework Cocoa -single_module -compatibility_version 1 -current_version 1 -Xlinker -dependency_info -Xlinker /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/xcodebuild-shim.build/Release/xcodebuild-fastsettings-shim.build/Objects-normal/x86_64/xcodebuild-fastsettings-shim_dependency_info.dat -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib36"345BD3B0-46A0-479F-9C6C-EA130A1BD0BD-
+b69ED0706-C347-458E-B926-D5C4931E8D6B
+
+CSymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib
+s395904242.154637
+e395904242.159227
+r1
+xSymLink
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Process /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib213"SymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylibdc9f27f20499b741^e3c328f20499b741^---0#0#1#--494"SymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib    cd /Users/xinsun/Documents/iOS/xctool/xcodebuild-shim    /bin/ln -sf /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/xcodebuild-fastsettings-shim.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/xcodebuild-fastsettings-shim.dylib36"9E09F406-3517-423E-874C-5C819C5ED708-
+b69ED0706-C347-458E-B926-D5C4931E8D6B
+

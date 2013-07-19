@@ -1,0 +1,215 @@
+Totest-query-ios
+v6
+r1
+cCheck dependencies
+cSymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios
+cProcessPCH /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-query-Prefix-gvqdkcttudjwutfuuzrqtsmbaxlh/otest-query-Prefix.pch.pch otest-query/otest-query-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/main.o /Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/OtestQuery.o /Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/OtestQuery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios normal i386
+cGenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000051D54DB600000000000000AA
+t1372933558
+s170
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000051D84F28000000000000044C
+t1373130536
+s1100
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000051D84F2800000000000001DC
+t1373130536
+s476
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051D84F3D00000000000CA114
+t1373130557
+s827668
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-query-Prefix-gvqdkcttudjwutfuuzrqtsmbaxlh/otest-query-Prefix.pch.pch
+t1374211461
+s3197236
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/OtestQuery.o
+t1374211461
+s8492
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/main.o
+t1374211461
+s2980
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/otest-query-ios.LinkFileList
+c0000000051E8CD85000000000000011A
+t1374211461
+s282
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios
+t1374211462
+s51940
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios
+t2
+s0
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios.dSYM
+t2
+s0
+
+N/Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/OtestQuery.m
+c0000000051E8CD5A0000000000000597
+t1374211418
+s1431
+
+N/Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/main.m
+c0000000051E8CD5A00000000000002F1
+t1374211418
+s753
+
+N/Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/otest-query-Prefix.pch
+c0000000051E8CD5A00000000000000A1
+t1374211418
+s161
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7fa0f8040599b741^3a070b050599b741^---0#1#1#--18"Check dependencies36"AEB0E549-C2DB-47C2-86F8-2EC31A8A6A8D-
+
+CCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/OtestQuery.o /Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/OtestQuery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395904261.335502
+e395904261.430502
+r1
+xCompileC
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/OtestQuery.o
+x/Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/OtestQuery.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/OtestQuery.m
+d/Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/OtestQuery.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/OtestQuery.m245"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/OtestQuery.o otest-query/OtestQuery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler150156050599b741^ce376e050599b741^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/OtestQuery.m0000000000000000^3773"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/OtestQuery.o otest-query/OtestQuery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xinsun/Documents/iOS/xctool/otest-query    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/otest-query-ios-generated-files.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/otest-query-ios-own-target-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/otest-query-ios-all-target-headers.hmap -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/otest-query-ios-project-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/DerivedSources/i386 -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/DerivedSources -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fobjc-abi-version=2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=70000 -F/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -include /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-query-Prefix-gvqdkcttudjwutfuuzrqtsmbaxlh/otest-query-Prefix.pch -MMD -MT dependencies -MF /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/OtestQuery.d --serialize-diagnostics /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/OtestQuery.dia -c /Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/OtestQuery.m -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/OtestQuery.o36"946BBD5F-CE05-4891-944C-60EEAC492BA1-
+b04C276D0-D58F-4366-A54E-17177822167A
+
+CCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/main.o /Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395904261.335063
+e395904261.384259
+r1
+xCompileC
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/main.o
+x/Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/main.m
+d/Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/OtestQuery.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/main.m233"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/main.o otest-query/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8ee555050599b741^ff5e62050599b741^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/main.m0000000000000000^3737"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/main.o otest-query/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xinsun/Documents/iOS/xctool/otest-query    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/otest-query-ios-generated-files.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/otest-query-ios-own-target-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/otest-query-ios-all-target-headers.hmap -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/otest-query-ios-project-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/DerivedSources/i386 -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/DerivedSources -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fobjc-abi-version=2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=70000 -F/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -include /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-query-Prefix-gvqdkcttudjwutfuuzrqtsmbaxlh/otest-query-Prefix.pch -MMD -MT dependencies -MF /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/main.dia -c /Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/main.m -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/main.o36"EF0BDDA9-F302-48D2-A1B9-A730E5F16A25-
+b04C276D0-D58F-4366-A54E-17177822167A
+
+CGenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios
+s395904262.337686
+e395904262.468504
+r1
+xGenerateDSYMFile
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios.dSYM
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Generate /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios.dSYM193"GenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios467d56060599b741^02f077060599b741^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios.dSYM0034bc9edfffdf42^533"GenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios    cd /Users/xinsun/Documents/iOS/xctool/otest-query    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios.dSYM36"779D1797-21BA-4516-B548-30D30ACC5AAD-
+b04C276D0-D58F-4366-A54E-17177822167A
+
+CLd /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios normal i386
+s395904261.431194
+e395904262.336928
+r1
+xLd
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios
+xnormal
+xi386
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/otest-query-ios.LinkFileList
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/main.o
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/OtestQuery.o
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Link /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios104"Ld /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios normal i38614756e050599b741^2d4156060599b741^---0#0#1#--1481"Ld /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios normal i386    cd /Users/xinsun/Documents/iOS/xctool/otest-query    setenv MACOSX_DEPLOYMENT_TARGET 10.8    ../Configurations/ld_dont_link_as_osx.py -arch i386 -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/otest-query-ios.LinkFileList -mmacosx-version-min=10.8 -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -F/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -miphoneos-version-min=7.0 -weak_framework SenTestingKit -fobjc-link-runtime -framework Foundation -Xlinker -dependency_info -Xlinker /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/Objects-normal/i386/otest-query-ios_dependency_info.dat -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios36"1E7BAB57-438E-4D32-A5BC-F24EDAE6546F-
+b04C276D0-D58F-4366-A54E-17177822167A
+
+CProcessPCH /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-query-Prefix-gvqdkcttudjwutfuuzrqtsmbaxlh/otest-query-Prefix.pch.pch otest-query/otest-query-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395904261.049385
+e395904261.334092
+r1
+xProcessPCH
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-query-Prefix-gvqdkcttudjwutfuuzrqtsmbaxlh/otest-query-Prefix.pch.pch
+xotest-query/otest-query-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/otest-query-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile otest-query/otest-query-Prefix.pch270"ProcessPCH /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-query-Prefix-gvqdkcttudjwutfuuzrqtsmbaxlh/otest-query-Prefix.pch.pch otest-query/otest-query-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler90bf0c050599b741^058955050599b741^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/otest-query-Prefix.pch0000000000000000^3688"ProcessPCH /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-query-Prefix-gvqdkcttudjwutfuuzrqtsmbaxlh/otest-query-Prefix.pch.pch otest-query/otest-query-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xinsun/Documents/iOS/xctool/otest-query    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/otest-query-ios-generated-files.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/otest-query-ios-own-target-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/otest-query-ios-all-target-headers.hmap -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/otest-query-ios-project-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/DerivedSources/i386 -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-query.build/Release/otest-query-ios.build/DerivedSources -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fobjc-abi-version=2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=70000 -F/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks --serialize-diagnostics /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-query-Prefix-gvqdkcttudjwutfuuzrqtsmbaxlh/otest-query-Prefix.pch.dia -MMD -MT dependencies -MF /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-query-Prefix-gvqdkcttudjwutfuuzrqtsmbaxlh/otest-query-Prefix.pch.d -c /Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/otest-query-Prefix.pch -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/PrecompiledHeaders/otest-query-Prefix-gvqdkcttudjwutfuuzrqtsmbaxlh/otest-query-Prefix.pch.pch36"07438B3A-D2CA-45DF-9700-8501AE86896F-
+b04C276D0-D58F-4366-A54E-17177822167A
+
+CSymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios
+s395904261.043436
+e395904261.048546
+r1
+xSymLink
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Process /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios179"SymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-iosc8280b050599b741^096e0c050599b741^---0#0#1#--422"SymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios    cd /Users/xinsun/Documents/iOS/xctool/otest-query    /bin/ln -sf /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/otest-query-ios /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-query-ios36"6EA89E2D-62CD-4926-9E31-062A00507EC1-
+b04C276D0-D58F-4366-A54E-17177822167A
+

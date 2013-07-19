@@ -1,0 +1,214 @@
+Totest-shim-ios
+v6
+r1
+cCheck dependencies
+cSymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib
+cCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/otest-shim.o /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib normal i386
+cGenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000051D54DB600000000000000AA
+t1372933558
+s170
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000051D84F28000000000000044C
+t1373130536
+s1100
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000051D84F2800000000000001DC
+t1373130536
+s476
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051D84F3D00000000000CA114
+t1373130557
+s827668
+
+N/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m
+c0000000051E8CD5A000000000000059B
+t1374211418
+s1435
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/Swizzle.o
+t1374211435
+s6340
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/otest-shim-ios.LinkFileList
+c0000000051E8CD690000000000000119
+t1374211433
+s281
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/otest-shim.o
+t1374211435
+s53664
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib
+t1374211436
+s35212
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib
+t2
+s0
+
+N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib.dSYM
+t2
+s0
+
+N/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim-Prefix.pch
+c0000000051E8CD5A000000000000007B
+t1374211418
+s123
+
+N/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m
+c0000000051E8CD5A00000000000039E6
+t1374211418
+s14822
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies20618ce80499b741^7cd3d4e90499b741^---0#1#1#--18"Check dependencies36"5C094C6A-D000-42E3-BFBC-2466B7CB5BA2-
+
+CCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395904233.913463
+e395904235.536274
+r1
+xCompileC
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/Swizzle.o
+x/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m
+d/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim-Prefix.pch
+d/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m267"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb5ffe9e90499b741^543989eb0499b741^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m0000000000000000^3585"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/Swizzle.o /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/otest-shim-ios-generated-files.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/otest-shim-ios-own-target-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/otest-shim-ios-all-target-headers.hmap -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/otest-shim-ios-project-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/DerivedSources/i386 -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/DerivedSources -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fobjc-abi-version=2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=70000 -F/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -include /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim-Prefix.pch -MMD -MT dependencies -MF /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/Swizzle.d --serialize-diagnostics /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/Swizzle.dia -c /Users/xinsun/Documents/iOS/xctool/Common/Swizzle.m -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/Swizzle.o36"5B7435A6-B380-4287-B1F7-7E6D0F3B5FFF-
+b4FC53AE2-FF96-47A8-9422-3CB83B8E034C
+
+CCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/otest-shim.o /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395904233.913124
+e395904235.536272
+r1
+xCompileC
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/otest-shim.o
+x/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m
+d/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim-Prefix.pch
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h
+d/Users/xinsun/Documents/iOS/xctool/xctool/xctool/Reporter.h
+d/Users/xinsun/Documents/iOS/xctool/Common/Swizzle.h
+d/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/dyld-interposing.h
+d/Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/dyld_priv.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m242"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/otest-shim.o otest-shim/otest-shim.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0dfbe9e90499b741^d82a89eb0499b741^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m0000000000000000^3587"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/otest-shim.o otest-shim/otest-shim.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/otest-shim-ios-generated-files.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/otest-shim-ios-own-target-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/otest-shim-ios-all-target-headers.hmap -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/otest-shim-ios-project-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/DerivedSources/i386 -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/DerivedSources -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fobjc-abi-version=2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=70000 -F/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -include /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim-Prefix.pch -MMD -MT dependencies -MF /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/otest-shim.d --serialize-diagnostics /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/otest-shim.dia -c /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/otest-shim.o36"02FD8B4F-6455-4F75-BD11-EFAF1E79C633-
+b4FC53AE2-FF96-47A8-9422-3CB83B8E034C
+
+CGenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib
+s395904236.463918
+e395904236.552649
+r1
+xGenerateDSYMFile
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib.dSYM
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Generate /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib.dSYM199"GenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib57ce76ec0499b741^ea7b8dec0499b741^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib.dSYM0034bc9edfffdf42^544"GenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib.dSYM36"8105D8DD-56EB-4E30-B7EE-32C851B66CEE-
+b4FC53AE2-FF96-47A8-9422-3CB83B8E034C
+
+CLd /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib normal i386
+s395904235.571969
+e395904236.463296
+r1
+xLd
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib
+xnormal
+xi386
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/otest-shim-ios.LinkFileList
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/dylib1.o
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/otest-shim.o
+d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/Swizzle.o
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Link /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib105"Ld /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib normal i386e09ca1eb0499b741^e59a76ec0499b741^---0#0#1#--1558"Ld /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib normal i386    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    setenv MACOSX_DEPLOYMENT_TARGET 10.9    ../Configurations/ld_dont_link_as_osx.py -arch i386 -dynamiclib -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -filelist /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/otest-shim-ios.LinkFileList -install_name /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib -mmacosx-version-min=10.9 -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -F/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -miphoneos-version-min=7.0 -fobjc-link-runtime -framework Foundation -single_module -compatibility_version 1 -current_version 1 -Xlinker -dependency_info -Xlinker /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/otest-shim.build/Release/otest-shim-ios.build/Objects-normal/i386/otest-shim-ios_dependency_info.dat -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib36"62DB8549-A00C-4DA5-9CFA-42F84F8D3978-
+b4FC53AE2-FF96-47A8-9422-3CB83B8E034C
+
+CSymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib
+s395904233.838607
+e395904233.912158
+r1
+xSymLink
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib
+x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Process /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib185"SymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib9a3ed7e90499b741^5183e9e90499b741^---0#0#1#--433"SymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib    cd /Users/xinsun/Documents/iOS/xctool/otest-shim    /bin/ln -sf /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/lib/otest-shim-ios.dylib /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/otest-shim-ios.dylib36"C7CF6B78-497E-415F-B313-557FF1C87FAA-
+b4FC53AE2-FF96-47A8-9422-3CB83B8E034C
+

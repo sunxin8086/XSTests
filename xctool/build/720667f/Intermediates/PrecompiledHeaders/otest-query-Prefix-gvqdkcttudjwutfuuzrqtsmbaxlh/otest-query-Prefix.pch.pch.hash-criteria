@@ -1,0 +1,29 @@
+Contents of /Users/xinsun/Documents/iOS/xctool/otest-query/otest-query/otest-query-Prefix.pch
+-x
+objective-c
+-arch
+i386
+-std=gnu99
+-fpascal-strings
+-Os
+-isysroot
+/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+-fasm-blocks
+-mmacosx-version-min=10.8
+-g
+-fvisibility=hidden
+-iquote
+-iquote
+-I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include
+-I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release
+-F/Applications/Xcode.app/Contents/Developer/Library/Frameworks
+-isysroot
+/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+-fobjc-abi-version=2
+-D__IPHONE_OS_VERSION_MIN_REQUIRED=70000
+-F/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks
+i386-apple-darwin13.0.0
+"4.2.1 Compatible Apple LLVM 5.0 (clang-500.1.65)"
+SDK_PRODUCT_BUILD_VERSION=13A510b
+13A510b

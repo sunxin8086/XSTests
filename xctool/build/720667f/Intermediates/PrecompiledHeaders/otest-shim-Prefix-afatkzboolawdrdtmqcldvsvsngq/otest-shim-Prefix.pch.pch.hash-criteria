@@ -1,0 +1,25 @@
+Contents of /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim-Prefix.pch
+-x
+objective-c
+-arch
+x86_64
+-std=gnu99
+-fobjc-gc
+-fpascal-strings
+-Os
+-isysroot
+/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+-fasm-blocks
+-mmacosx-version-min=10.7
+-g
+-iquote
+-iquote
+-I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include
+-I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release
+-F/Applications/Xcode.app/Contents/Developer/Library/Frameworks
+-F/Applications/Xcode5-DP3.app/Contents/Developer/Library/Frameworks
+x86_64-apple-darwin13.0.0
+"4.2.1 Compatible Apple LLVM 5.0 (clang-500.1.65)"
+SDK_PRODUCT_BUILD_VERSION=13A510b
+13A510b

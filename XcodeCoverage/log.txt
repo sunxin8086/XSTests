@@ -1,0 +1,43 @@
+~/Library/Developer/Xcode/DerivedData/XSTests-cmkzjtilcohrtgdkssdfsfinnpne/Build/Products/Debug-iphonesimulator ~/Documents/iOS/XSTests/XcodeCoverage
+~/Documents/iOS/XSTests/XcodeCoverage
+Capturing coverage data from /Users/xinsun/Library/Developer/Xcode/DerivedData/XSTests-cmkzjtilcohrtgdkssdfsfinnpne/Build/Intermediates/XSTests.build/Debug-iphonesimulator/XSTests.build/Objects-normal/i386
+Found gcov version: 4.2.1
+Scanning /Users/xinsun/Library/Developer/Xcode/DerivedData/XSTests-cmkzjtilcohrtgdkssdfsfinnpne/Build/Intermediates/XSTests.build/Debug-iphonesimulator/XSTests.build/Objects-normal/i386 for .gcda files ...
+Found 4 data files in /Users/xinsun/Library/Developer/Xcode/DerivedData/XSTests-cmkzjtilcohrtgdkssdfsfinnpne/Build/Intermediates/XSTests.build/Debug-iphonesimulator/XSTests.build/Objects-normal/i386
+Processing i386/main.gcda
+/Users/xinsun/Library/Developer/Xcode/DerivedData/XSTests-cmkzjtilcohrtgdkssdfsfinnpne/Build/Intermediates/XSTests.build/Debug-iphonesimulator/XSTests.build/Objects-normal/i386/main.gcno:version '404*', prefer '402*'
+Processing i386/XSAppDelegate.gcda
+/Users/xinsun/Library/Developer/Xcode/DerivedData/XSTests-cmkzjtilcohrtgdkssdfsfinnpne/Build/Intermediates/XSTests.build/Debug-iphonesimulator/XSTests.build/Objects-normal/i386/XSAppDelegate.gcno:version '404*', prefer '402*'
+Processing i386/XSFirstViewController.gcda
+/Users/xinsun/Library/Developer/Xcode/DerivedData/XSTests-cmkzjtilcohrtgdkssdfsfinnpne/Build/Intermediates/XSTests.build/Debug-iphonesimulator/XSTests.build/Objects-normal/i386/XSFirstViewController.gcno:version '404*', prefer '402*'
+Processing i386/XSSecondViewController.gcda
+/Users/xinsun/Library/Developer/Xcode/DerivedData/XSTests-cmkzjtilcohrtgdkssdfsfinnpne/Build/Intermediates/XSTests.build/Debug-iphonesimulator/XSTests.build/Objects-normal/i386/XSSecondViewController.gcno:version '404*', prefer '402*'
+Finished .info-file creation
+Reading tracefile XSTests.info
+Deleted 0 files
+Writing data to XSTests.info
+Summary coverage rate:
+  lines......: 28.1% (9 of 32 lines)
+  functions..: 35.7% (5 of 14 functions)
+  branches...: no data found
+Reading tracefile XSTests.info
+Removing /Users/xinsun/Documents/iOS/XSTests/XSTests/main.m
+Deleted 1 files
+Writing data to XSTests.info
+Summary coverage rate:
+  lines......: 33.3% (9 of 27 lines)
+  functions..: 38.5% (5 of 13 functions)
+  branches...: no data found
+Reading data file XSTests.info
+Found 4 entries.
+Found common filename prefix "/Users/xinsun/Documents/iOS/XSTests"
+Writing .css and .png files.
+Generating output.
+Processing file XSTests/XSSecondViewController.m
+Processing file XSTests/XSAppDelegate.m
+Processing file XSTests/XSFirstViewController.m
+Processing file XSTests/XSAppDelegate.h
+Writing directory view page.
+Overall coverage rate:
+  lines......: 33.3% (9 of 27 lines)
+  functions..: 38.5% (5 of 13 functions)

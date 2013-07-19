@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim.m \
+  /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/otest-shim-Prefix.pch \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h \
+  /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/../iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h \
+  /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/../../xctool/xctool/Reporter.h \
+  /Users/xinsun/Documents/iOS/xctool/otest-shim/../Common/Swizzle.h \
+  /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/dyld-interposing.h \
+  /Users/xinsun/Documents/iOS/xctool/otest-shim/otest-shim/dyld_priv.h
