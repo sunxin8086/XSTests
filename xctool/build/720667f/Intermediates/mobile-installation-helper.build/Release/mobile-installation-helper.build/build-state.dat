@@ -1,226 +1,0 @@
-Tmobile-installation-helper
-v6
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Info.plist /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/mobile-installation-helper-Info.plist
-cSymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app
-cCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/Objects-normal/i386/main.o /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/mobile-installation-helper normal i386
-cGenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/mobile-installation-helper
-cCpResource Default-568h@2x.png /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Default-568h@2x.png
-cTouch /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app
-
-N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
-c0000000051D7BE3F0000000000000176
-t1373093439
-s374
-
-N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
-c0000000051D851DE00000000000003B5
-t1373131230
-s949
-
-N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
-c0000000051D8522000000000000001A0
-t1373131296
-s416
-
-N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c0000000051D852370000000000207E50
-t1373131319
-s2129488
-
-N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000051D852400000000000429D50
-t1373131328
-s4365648
-
-N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c0000000051D852580000000000E192A0
-t1373131352
-s14783136
-
-N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/Objects-normal/i386/main.o
-t1374211443
-s63060
-
-N/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/Objects-normal/i386/mobile-installation-helper.LinkFileList
-c0000000051E8CD7200000000000000A4
-t1374211442
-s164
-
-N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app
-t1374211443
-s204
-
-N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Default-568h@2x.png
-t1374211443
-s18594
-
-N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Info.plist
-t1374211442
-s881
-
-N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/PkgInfo
-t1374211442
-s8
-
-N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/mobile-installation-helper
-t1374211443
-s35256
-
-N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app
-t2
-s0
-
-N/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app.dSYM
-t2
-s0
-
-N/Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/Default-568h@2x.png
-c0000000051E8CD5A00000000000048A2
-t1374211418
-s18594
-
-N/Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/main.m
-c0000000051E8CD5A0000000000000A3B
-t1374211418
-s2619
-
-N/Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/mobile-installation-helper-Info.plist
-c0000000051E8CD5A00000000000004C2
-t1374211418
-s1218
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciescff9adf20499b741^5da7b1f20499b741^---0#1#1#--18"Check dependencies36"3FFAFA90-EEF0-43BB-BA34-65AFDF76AFDF-
-
-CCompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/Objects-normal/i386/main.o /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s395904242.740159
-e395904243.174597
-r1
-xCompileC
-x/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/Objects-normal/i386/main.o
-x/Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/main.m
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/main.m274"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/Objects-normal/i386/main.o mobile-installation-helper/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfc8ebdf20499b741^ddb52cf30499b741^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/main.m0000000000000000^3945"CompileC /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/Objects-normal/i386/main.o mobile-installation-helper/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin:/usr/local/git/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/mobile-installation-helper-generated-files.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/mobile-installation-helper-own-target-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/mobile-installation-helper-all-target-headers.hmap -iquote /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/mobile-installation-helper-project-headers.hmap -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/DerivedSources/i386 -I/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/DerivedSources -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -DNS_BLOCK_ASSERTIONS=1 -MMD -MT dependencies -MF /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/Objects-normal/i386/main.dia -c /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/main.m -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/Objects-normal/i386/main.o36"4CAE6B06-FE45-42A2-B6F2-B8F88945646F-
-b40EE5421-DBB6-41F3-BEB3-53D0596902D7
-
-CCpResource Default-568h@2x.png /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Default-568h@2x.png
-s395904243.470184
-e395904243.471389
-r1
-xCpResource
-xDefault-568h@2x.png
-x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Default-568h@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Copy /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Default-568h@2x.png155"CpResource Default-568h@2x.png /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Default-568h@2x.pnga06e78f30499b741^bcad78f30499b741^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Default-568h@2x.png0034bc9edfffdf42^870"CpResource Default-568h@2x.png /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Default-568h@2x.png    cd /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/Default-568h@2x.png /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app36"B6D0A826-90D4-4141-9286-2C3858EDBD50-
-b40EE5421-DBB6-41F3-BEB3-53D0596902D7
-
-CGenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/mobile-installation-helper
-s395904243.417900
-e395904243.469806
-r1
-xGenerateDSYMFile
-x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app.dSYM
-x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/mobile-installation-helper
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Generate /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app.dSYM250"GenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/mobile-installation-helper0f096bf30499b741^024578f30499b741^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app.dSYM0034bc9edfffdf42^1008"GenerateDSYMFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app.dSYM /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/mobile-installation-helper    cd /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin:/usr/local/git/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/mobile-installation-helper -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app.dSYM36"802EF135-D623-4102-99F8-5EAC0CB739AA-
-b40EE5421-DBB6-41F3-BEB3-53D0596902D7
-
-CLd /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/mobile-installation-helper normal i386
-s395904243.175337
-e395904243.417237
-r1
-xLd
-x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/mobile-installation-helper
-xnormal
-xi386
-d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/Objects-normal/i386/mobile-installation-helper.LinkFileList
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
-d/Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/Objects-normal/i386/main.o
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/MobileInstallation.framework/MobileInstallation
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
-d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
-d/usr/lib/system/libcache.dylib
-d/usr/lib/system/libcommonCrypto.dylib
-d/usr/lib/system/libcompiler_rt.dylib
-d/usr/lib/system/libcopyfile.dylib
-d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libkeymgr.dylib
-d/usr/lib/system/liblaunch.dylib
-d/usr/lib/system/libmacho.dylib
-d/usr/lib/system/libquarantine.dylib
-d/usr/lib/system/libremovefile.dylib
-d/usr/lib/system/libsystem_asl.dylib
-d/usr/lib/system/libsystem_blocks.dylib
-d/usr/lib/system/libsystem_c.dylib
-d/usr/lib/system/libsystem_configuration.dylib
-d/usr/lib/system/libsystem_dnssd.dylib
-d/usr/lib/system/libsystem_info.dylib
-d/usr/lib/system/libsystem_kernel.dylib
-d/usr/lib/system/libsystem_m.dylib
-d/usr/lib/system/libsystem_malloc.dylib
-d/usr/lib/system/libsystem_notify.dylib
-d/usr/lib/system/libsystem_platform.dylib
-d/usr/lib/system/libsystem_pthread.dylib
-d/usr/lib/system/libsystem_sandbox.dylib
-d/usr/lib/system/libunc.dylib
-d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Link /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/mobile-installation-helper146"Ld /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/mobile-installation-helper normal i38641f42cf30499b741^42cf6af30499b741^---0#0#1#--1933"Ld /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/mobile-installation-helper normal i386    cd /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin:/usr/local/git/bin"    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -F/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release -filelist /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/Objects-normal/i386/mobile-installation-helper.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -F/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks -framework MobileInstallation -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework UIKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/xinsun/Documents/iOS/xctool/build/720667f/Intermediates/mobile-installation-helper.build/Release/mobile-installation-helper.build/Objects-normal/i386/mobile-installation-helper_dependency_info.dat -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/mobile-installation-helper36"AAD69369-1AAD-40B1-AC7A-CC05BA23597A-
-b40EE5421-DBB6-41F3-BEB3-53D0596902D7
-
-CProcessInfoPlistFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Info.plist /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/mobile-installation-helper-Info.plist
-s395904242.694579
-e395904242.735866
-r1
-xProcessInfoPlistFile
-x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Info.plist
-x/Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/mobile-installation-helper-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Process /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/mobile-installation-helper-Info.plist201"ProcessInfoPlistFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Info.plist mobile-installation-helper/mobile-installation-helper-Info.pliste55eb8f20499b741^9a60bcf20499b741^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/mobile-installation-helper-Info.plist0000000000000000^1079"ProcessInfoPlistFile /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Info.plist mobile-installation-helper/mobile-installation-helper-Info.plist    cd /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper/mobile-installation-helper/mobile-installation-helper-Info.plist -genpkginfo /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app/Info.plist36"374E1F45-27BC-4A2E-BF95-5B4FA772BF0D-
-b40EE5421-DBB6-41F3-BEB3-53D0596902D7
-
-CSymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app
-s395904242.736252
-e395904242.739713
-r1
-xSymLink
-x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app
-x/Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Process /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app209"SymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.appf888bcf20499b741^185ebdf20499b741^---0#0#1#--843"SymLink /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app    cd /Users/xinsun/Documents/iOS/xctool/mobile-installation-helper    setenv PATH "/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin:/usr/local/git/bin"    /bin/ln -sf /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/mobile-installation-helper.app36"047681EF-8637-458D-B3E8-BA76F7855A30-
-b40EE5421-DBB6-41F3-BEB3-53D0596902D7
-
-CTouch /Users/xinsun/Documents/iOS/xctool/build/720667f/Products/Release/libexec/mobile-installation-helper.app
-r0
-
